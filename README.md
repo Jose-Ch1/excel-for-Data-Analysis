@@ -1,10 +1,10 @@
-# excel-for-Data-Analysis
+# Excel-for-Data-Analysis
 I will be creating a repository to show the skills I learned and I will be learning with Exel 
 
 
 
 
-**ypes of data analysis
+** Types of data analysis
 
 ### Qualitative
 
