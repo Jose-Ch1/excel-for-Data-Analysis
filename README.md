@@ -86,3 +86,55 @@ With the table we have several options to be able to modify the table, one of th
 
 ![1 10 tabal](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/7f76634f-3c60-4e95-bf0d-fbbf6cc766d5)
 
+------------
+
+
+# Filters
+
+We can use filters, with the filters we have many options with which we can filter by columns (We can select one or several) we can also sort by alphabetical order (ascending or descending), by number (descending, ascending) etc.
+
+------------
+
+
+
+------------
+
+
+
+![2 1 filtro](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/eec52f1e-3fa5-452f-8669-08775c2f631d)
+ 
+![2 2 fitro](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/193485f3-8587-438c-9bcb-5f409cef2586)
+
+
+------------
+### We can also use data segmentation that would help us group data quickly and efficiently.
+
+
+What we have to do is go to data then data segmentation and select the data we want to filter, then some boxes appear and we place them where it is easier to manipulate them. And only by selecting an option is the table automatically filtered (we can select several options.
+
+------------
+
+
+
+![2 3 seg](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/07fa9684-88e3-4472-98ce-87d115111f21)
+
+![2 4 seg](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/f0de5594-192c-4b60-96f4-b8a8f8484501)
+
+
+------------
+
+# How to remove duplicates
+
+### To eliminate duplicates we can do it in the following ways:
+
+1- Advanced filter: in this option we go to the data part, then to filters and select the advanced filter option here we can filter the information in the same place and copy it to another place, in this case we will select in another place. Then we select the range of the table and select the criteria (The criteria are the headers), we select where we want to copy the information and if we want to eliminate duplicates, we mark the option and click OK.
+2- The other option is not to copy the data and modify the table.
+3- If we have office 365 we can use the unique function
+
+------------
+![2 5 filtro ava](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/48e46770-7dd4-4506-8d2b-ae17b3db8cfc)
+
+![2 6 filtro dup](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/17bbcfe9-b085-45b7-8a99-d5f891987e53)
+
+![2 7 filtro dup](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/963878c7-b2d8-4403-afb4-99399d099b22)
+
