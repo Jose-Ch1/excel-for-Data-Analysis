@@ -138,3 +138,65 @@ What we have to do is go to data then data segmentation and select the data we w
 
 ![2 7 filtro dup](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/963878c7-b2d8-4403-afb4-99399d099b22)
 
+
+# VLOOKUP and XLOOKUP functions
+
+
+The XLOOKUP and LYLOOKUP functions are used to find items in a table or range by row.
+Next, let's create some examples where we can use the find V and find X functions.
+ 
+
+## VLOOKUP
+
+To use the find v function we have to write the function then we have to fill in the information we need to use it.
+
+1.  We have to select the Celtic that we are going to look for.
+2.  Select the database where d is to search.
+3.  select which column number the function will bring us.
+4.  Select whether we want an approximate (true) or exact (false) match.
+
+If when we are in the third option we go to the side of the table name and we select more options and then we select the option called column and then we select a reference column and then we only set the column but not the row as the second image we can make VLOOKUP easier and more efficient to use
+
+
+
+![3 1 buscar v](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/28b0d38d-f2d7-421f-ac90-5d744f91cabc)
+
+![3 2 buscar v](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/a4d515a5-5beb-4500-ae28-9f5562088ab9)
+
+
+------------
+
+##### When we use VLOOKUP and the data is not found, it shows us an error to solve that, we are going to use the VLOOKUP with the IF function, we can achieve a treatment for the errors.
+
+![3 3](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/3d6212ec-0da7-4612-90fb-9e116e16bc47)
+
+![3 4 buscar v](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/9482304c-8f04-47f6-97ac-8a6643601f04)
+
+# XLOOKUP function
+
+With the XLOOKUP function we have to fill the matrix to look for the value, the matrix has 5 values, 3 of which are mandatory and 2 optional.
+
+- We have to select the value that we are going to look for.
+
+- We have to select the matrix where we are going to look for the data.
+
+- We have to select the matrix that we want returned, in this case it is the lastname column.
+
+- We can choose what we want to happen if there is an error.
+
+- We choose if we want the searched value to be exact and not.
+![3 5 buscarx](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/70443f04-8571-4b3d-aeaa-5b97221f830c)
+
+![3 6 buscarx](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/d59db1fa-354f-4a3d-8434-c78bfff1ba75)
+
+
+------------
+
+####  With XLOOKUP's dynamic arrays, we can look up multiple data with just the id.
+
+We select the cell that we are going to search, the data matrix in which we are going to search it and we are going to select the data that we are going to need and we select all the data from the columns.
+
+
+![3 7 buscar x](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/8cd55506-d559-4227-8d54-13da828f9008)
+
+![3 8 buscarx ](https://github.com/Jose-Ch1/excel-for-Data-Analysis/assets/123495174/e142dc41-7e5b-4108-9a75-85b38effe353)
